@@ -1,0 +1,7 @@
+﻿  pk.cpp
+C:\Users\23171\source\repos\问题求解大作业 - 2.0\问题求解大作业 - 2.0\pk.cpp(258,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23171\source\repos\问题求解大作业 - 2.0\问题求解大作业 - 2.0\pk.cpp(259,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23171\source\repos\问题求解大作业 - 2.0\问题求解大作业 - 2.0\pk.cpp(260,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23171\source\repos\问题求解大作业 - 2.0\问题求解大作业 - 2.0\pk.cpp(261,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23171\source\repos\问题求解大作业 - 2.0\问题求解大作业 - 2.0\pk.cpp(262,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  问题求解大作业.vcxproj -> C:\Users\23171\source\repos\问题求解大作业 - 2.0\问题求解大作业 - 2.0\x64\Debug\问题求解大作业.exe
